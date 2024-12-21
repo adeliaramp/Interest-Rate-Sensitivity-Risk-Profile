@@ -1,4 +1,4 @@
-# Default Risk Analysis
+# Interest Rate Sensitivity Based on Users' Risk Profile
 
 This project is an analysis of simulated default probabilities by risk profile for a fixed-rate credit product. The objective is to explore repayment behavior and provide actionable insights for optimizing loan portfolios. The analysis incorporates exploratory data visualization, undersampling techniques to address class imbalance, and logistic regression modeling.
 
